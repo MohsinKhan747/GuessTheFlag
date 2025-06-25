@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 - **Mohsin Khan**  
-  [LinkedIn](#) | [GitHub](#)
+  [LinkedIn](https://www.linkedin.com/in/mohsin-khan777/) 
 
