@@ -1,5 +1,5 @@
 
-# 🇺🇳 Guess the Flag – SwiftUI Game
+# Guess the Flag – SwiftUI Game
 
 A fun and simple iOS game built using **SwiftUI** that helps users learn country flags by testing their knowledge in an engaging way.
 
